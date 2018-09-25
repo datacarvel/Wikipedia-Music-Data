@@ -4,3 +4,5 @@ How I used SparQL to query Wikidata, scraped Wikipedia articles' infoboxes with 
 This is what was web scraped below, an example with Dubstep. I was grabbing the table data next to "Stylistic origins", "Derivative forms", "Cultural origins" and so on.
 
 ![An infobox from Wikipedia!](http://scarufel.com/wp-content/uploads/2018/09/infobox.png)
+
+If something isn't clear in the code just give me a shout! steevecarvel@gmail.com
